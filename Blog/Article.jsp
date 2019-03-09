@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action='GetArticleServlet' method = "GET" enctype = "multipart/form-data">
+	<form action='GetArticleServlet' method = "get">
 			<input type="number" name="aid">
 			<input type = "submit" value = "提交">
 		</form>
